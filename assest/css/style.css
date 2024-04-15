@@ -41,6 +41,7 @@ ul {
 
 .logo {
   display: flex;
+  justify-content: center;
   align-items: center;
   text-align: center;
   width: 150px;
@@ -62,12 +63,14 @@ ul {
   padding: 0 5px;
   color: #009CBF;
   font-size: 1.2em;
+  margin-bottom: 0;
 }
 
 span {
   font-size: 0.5rem;
   color: #009CBF;
   margin-top: -5px;
+  padding: 0;
 }
 
 .info-links {
