@@ -75,7 +75,6 @@ span {
 
 .info-links {
   color: #252B42;
-  ;
 }
 
 .info-links:hover {
@@ -127,6 +126,7 @@ span {
   background: var(--main-color);
   color: white;
   border: 1px solid #aa3308;
+  box-shadow: 0 0 20px #aa3308;
 }
 
 h2 {
@@ -153,6 +153,7 @@ h2 {
   margin-left: 3rem;
   border-radius: 12%;
   border: none inset;
+  box-shadow: 0 0 5px white;
 
 
 }
