@@ -17,7 +17,6 @@ body {
   font-size: 24px;
   color: #FFFFFF;
   font: 700;
-
 }
 
 .wallpaper {
@@ -26,7 +25,6 @@ body {
   align-items: center;
   width: 100%;
   max-height: 156px;
-
 }
 
 ul {
@@ -58,6 +56,11 @@ ul {
   background: #E78200;
 }
 
+.flex {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
 
 .logo-text {
   padding: 0 5px;
